@@ -1,5 +1,5 @@
-Cloakings
-=========
+Traffic Cloaking Libraries
+==========================
 
 Show different content to real users and bots:
 - avoid web site scraping
